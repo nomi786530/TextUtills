@@ -4,6 +4,9 @@ import Alert from "./components/Alert";
 import Navbar from "./components/Navbar";
 import TextForm from "./components/TextForm";
 import {useState} from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
+
 // import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 
 function App() {
